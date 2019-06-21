@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SoloLearn
+namespace assign_and_call_t1
 {
     class Program
     {
